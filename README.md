@@ -21,8 +21,8 @@ A Python automation tool that ingests security incident logs (CSV/JSON), process
 
 ```bash
 # Clone repository
-git clone https://github.com/YOURUSERNAME/incident-log-processor.git
-cd incident-log-processor
+git clone https://github.com/ZuesSSSSS/Incident-Log-Processor
+cd Incident-Log-Processor
 
 # Install dependencies
 pip install -r requirements.txt
